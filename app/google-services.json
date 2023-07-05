@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889579393369",
+    "project_id": "crash-test-android-d604a",
+    "storage_bucket": "crash-test-android-d604a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889579393369:android:2a6a96536edc007168fc48",
+        "android_client_info": {
+          "package_name": "com.screenbeam.alertplus.hellocrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889579393369-0hegjd7jjpokrhdomhbmfdnpuk4aoefe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxPpxqWhkRLgSP3w_k7eXzHohMyNXCB28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889579393369-0hegjd7jjpokrhdomhbmfdnpuk4aoefe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
